@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="business_name">Lots of Cats</string>
+    <string name="phone">555 5555 555</string>
+    <string name="mail">cats@animals.com</string>
+    <string name="website">www.animals.com</string>
+    <string name="description">We care only about cats</string>
+    <string name="hours">We operate 24/7. You can reach us anytime but sometimes we sleep</string>
+</resources>
